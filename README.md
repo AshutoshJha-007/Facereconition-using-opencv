@@ -24,7 +24,7 @@ This project is a face recognition-based attendance system designed for gym mana
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/AshutoshJha-007/face-recognition-attendance.git
+   git clone https://github.com/AshutoshJha-007/Facereconition-using-opencv.git
    cd face-recognition-attendance
    ```
 2. Create a virtual environment (optional but recommended):
